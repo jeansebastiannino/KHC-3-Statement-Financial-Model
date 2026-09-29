@@ -38,4 +38,4 @@ Se implementó un modelo financiero integrado de tres estados, estructurado medi
 ---
 
 ### Disclaimer
-Este modelo tiene fines estrictamente educativos y de demostración para portafolio. No constituye asesoría financiera ni recomendación de inversión sobre The Kraft Heinz Company (KHC). Las proyecciones son escenarios hipotéticos basados en datos históricos públicos. El autor no asume responsabilidad alguna por el uso de este material.
+Este modelo tiene fines estrictamente educativos y de demostración para portafolio. No constituye asesoría financiera ni recomendación de inversión sobre The Kraft Heinz Company (KHC). Las proyecciones representan estimaciones hipotéticas basadas en datos históricos públicos. El autor no asume responsabilidad alguna por el uso de este material.
