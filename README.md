@@ -38,4 +38,4 @@ An integrated three-statement financial model was implemented, structured throug
 ---
 
 ### Disclaimer
-This model is strictly for educational and portfolio demonstration purposes. It does not constitute financial advice or an investment recommendation regarding The Kraft Heinz Company (KHC). The projections are hypothetical scenarios based on public historical data. The author assumes no responsibility for the use of this material.
+This model is strictly for educational and portfolio demonstration purposes. It does not constitute financial advice or an investment recommendation regarding The Kraft Heinz Company (KHC). The projections represent hypothetical estimates based on public historical data. The author assumes no responsibility for the use of this material.
