@@ -1,5 +1,5 @@
-# README: Modelo Financiero Proyectado (2026E-2030E) The Kraft Heinz Company (KHC)
-*Read this in [English](README.md)*
+# The Kraft Heinz Company (KHC) | Modelo Financiero de 3 Estados (2026E-2030E)
+> 🌐 Leer este documento en [English](README.md)
 
 ## 1. Introducción y Alcance
 Este documento describe la estructura y los supuestos clave de proyección (drivers) del modelo financiero de tres estados para The Kraft Heinz Company (KHC). Este modelo fue desarrollado en Excel utilizando como fuente única de datos históricos el informe presentado ante la SEC, [Annual Report Form 10-K 2025](KHC_Annual_Report_10K_2025.pdf), para el periodo 2023A-2025A. Su propósito es proyectar los estados financieros de la empresa a cinco años (2026E-2030E), cumpliendo con los estándares de FP&A y asegurando un cuadre dinámico del balance.
